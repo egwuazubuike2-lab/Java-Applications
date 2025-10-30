@@ -39,6 +39,11 @@ public class OperatorsPart3{
 		System.out.printf("%d%n",num5);
 		System.out.printf("%d%n",num5--);
 		System.out.printf("%d%n",num5);
+		
+		
+		
+		
+		
 	}
 }
 	

@@ -8,5 +8,6 @@ public class TypeCasting{
 	double price = 34.89;
 	int result =(int)price;
 	System.out.printf("The value is %d%n",result);
+	
     }
 }
