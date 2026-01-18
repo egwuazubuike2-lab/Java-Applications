@@ -9,7 +9,6 @@ public class StaticMethodWithReturnTypeNoPara{ //With return type but no paramet
 		int num3 = 90;
 		
 		int sum = num1 + num2 + num3;
-		
-		return sum;
+		return sum;
 	}
 }
